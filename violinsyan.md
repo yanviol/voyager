@@ -20,3 +20,9 @@ Play with love，乐团希望用爱去诠释每一首动人的旋律。
 [![violinsyan2]({{ site.images | relative_url }}/violinsyan2.jpg)]({{ site.images | relative_url }}/violinsyan2.jpg)
 
 [![violinsyan3]({{ site.images | relative_url }}/violinsyan3.jpg)]({{ site.images | relative_url }}/violinsyan3.jpg)
+
+[![violinsyan4]({{ site.images | relative_url }}/violinsyan4.jpg)]({{ site.images | relative_url }}/violinsyan4.jpg)
+
+[![violinsyan5]({{ site.images | relative_url }}/violinsyan5.jpg)]({{ site.images | relative_url }}/violinsyan5.jpg)
+
+[![violinsyan6]({{ site.images | relative_url }}/violinsyan6.jpg)]({{ site.images | relative_url }}/violinsyan6.jpg)

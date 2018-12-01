@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The homepage for violins-Yan and learn-violin-with-Yan
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
-url: "https://violinyan.github.io" # the base hostname & protocol for your site
+url: "https://yanviolin.github.io" # the base hostname & protocol for your site
 github_username:  yanviolin
 disqus_username:
 

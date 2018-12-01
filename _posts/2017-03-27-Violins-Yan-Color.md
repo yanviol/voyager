@@ -1,5 +1,5 @@
-
 ---
+bg: "yan2.jpg"
 layout: post
 title:  "ViolinsYan乐队"
 crawlertitle: "ViolinsYan乐队"

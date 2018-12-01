@@ -1,19 +1,14 @@
 ---
-bg: "owl.jpg"
+bg: "yan3.jpg"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "About Yan violin"
 permalink: /about/
-summary: "About this blog"
+summary: "About Yan violin"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+这里是[Yan乐团](https://yanviolin.github.io/violinsyan/)([详细资料](./assets/images/violinsyan1.jpg))和小Yan小课堂的主页。
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+- email: 306154965@qq.com
+- wx: q306154965

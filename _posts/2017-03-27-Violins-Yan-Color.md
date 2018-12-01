@@ -10,8 +10,8 @@ tags: 'ViolinsYan'
 author: Yan
 ---
 
-[![violinsyan1]({{ site.images | relative_url }}/rails.jpg)]({{ site.images | relative_url }}/violinsyan1.jpg)
+[![violinsyan1]({{ site.images | relative_url }}/violinsyan1.jpg)]({{ site.images | relative_url }}/violinsyan1.jpg)
 
-[![violinsyan2]({{ site.images | relative_url }}/rails.jpg)]({{ site.images | relative_url }}/violinsyan2.jpg)
+[![violinsyan2]({{ site.images | relative_url }}/violinsyan2.jpg)]({{ site.images | relative_url }}/violinsyan2.jpg)
 
-[![violinsyan3]({{ site.images | relative_url }}/rails.jpg)]({{ site.images | relative_url }}/violinsyan3.jpg)
+[![violinsyan3]({{ site.images | relative_url }}/violinsyan3.jpg)]({{ site.images | relative_url }}/violinsyan3.jpg)

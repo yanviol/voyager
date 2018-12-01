@@ -1,13 +1,12 @@
 ---
 bg: "yan2.jpg"
 layout: post
-title:  "ViolinsYan乐团"
-crawlertitle: "ViolinsYan乐团"
-summary: "ViolinsYan乐队彩团"
+title:  "Yan乐团20170327"
+crawlertitle: "Yan乐团20170327"
+summary: "Yan乐团20170327"
 date:   2017-03-27 14:24:47 +0800
 categories: posts
-tags: 'ViolinsYan'
-active: Yan乐团
+tags: 'Yan乐团'
 author: Yan
 ---
 

@@ -13,3 +13,9 @@ author: Yan
 ![violinsyan5]({{ site.images }}/violinsyan5.jpg)
 ![violinsyan4]({{ site.images }}/violinsyan4.jpg)
 ![violinsyan8]({{ site.images }}/violinsyan8.jpg)
+![yangray2]({{ site.images }}/yangray2.jpg)
+![violinsyangray1]({{ site.images }}/violinsyangray1.jpg)
+![violinsyangray2]({{ site.images }}/violinsyangray2.jpg)
+![violinsyangray3]({{ site.images }}/violinsyangray3.jpg)
+![violinsyangray4]({{ site.images }}/violinsyangray4.jpg)
+

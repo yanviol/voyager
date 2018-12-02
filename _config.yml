@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: YanViolin
+title: Yan#Violin
 email: 306154965@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  The homepage for violins-Yan and learn-violin-with-Yan
+  The homepage for violinsYan and Yan
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
 url: "https://yanviolin.github.io" # the base hostname & protocol for your site

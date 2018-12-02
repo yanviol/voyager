@@ -2,13 +2,13 @@
 bg: "yan3.jpg"
 layout: page
 title: "About"
-crawlertitle: "About Yan violin"
+crawlertitle: "About Yan#Violin"
 permalink: /about/
-summary: "About Yan violin"
+summary: "About Yan#Violin"
 active: about
 ---
 
-这里是[Yan乐团]({{site.url}}/violinsyan/)([详细资料]({{site.url}}/assets/download/ViolinsYan.pdf))和小Yan个人的主页。
+这里是[Yan乐团]({{site.url}}/violinsyan/)([详细资料]({{site.url}}/assets/download/ViolinsYan.pdf))和小Yan本人的主页。
 
-- email: 306154965@qq.com
+- Email: 306154965@qq.com
 - wx: q306154965

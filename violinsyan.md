@@ -28,5 +28,10 @@ active: Yan乐团
 
 [![violinsyan4]({{ site.images | relative_url }}/violinsyan4.jpg)]({{ site.images | relative_url }}/violinsyan4.jpg)
 
+![violinsyan8]({{ site.images }}/violinsyan8.jpg)
+![violinsyan9]({{ site.images }}/violinsyan9.jpg)
+![violinsyan10]({{ site.images }}/violinsyan10.jpg)
+
+
 
 

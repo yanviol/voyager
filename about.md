@@ -1,5 +1,5 @@
 ---
-bg: "yan3.jpg"
+bg: "yan4.jpg"
 layout: page
 title: "About"
 crawlertitle: "About Yan#Violin"

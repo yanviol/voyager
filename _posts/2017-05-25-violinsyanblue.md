@@ -5,7 +5,7 @@ title:  "声光影：魅蓝"
 crawlertitle: "声光影：魅蓝"
 summary: "声光影：魅蓝"
 date:   2017-05-25 20:24:47 +0800
-categories: posts
+categories: starred
 tags: '商演'
 author: Yan
 ---

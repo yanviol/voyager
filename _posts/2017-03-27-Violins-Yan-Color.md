@@ -1,9 +1,9 @@
 ---
 bg: "yan2.jpg"
 layout: post
-title:  "Yan乐团20170327"
-crawlertitle: "Yan乐团20170327"
-summary: "Yan乐团20170327"
+title:  "全家福"
+crawlertitle: "Yan乐团全家福"
+summary: "Yan乐团全家福"
 date:   2017-03-27 14:24:47 +0800
 categories: posts
 tags: 'Yan乐团'

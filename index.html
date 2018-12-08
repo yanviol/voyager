@@ -6,9 +6,11 @@ title: "Yan#Violin"
 summary: "Play with love"
 ---
 
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts limit: 7 %}
   <article class="index-page">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     {{ post.excerpt }}
   </article>
 {% endfor %}
+
+[More...]({{site.url}}/posts/)

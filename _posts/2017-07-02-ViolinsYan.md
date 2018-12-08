@@ -1,7 +1,7 @@
 ---
 bg: "yan2.jpg"
 layout: post
-title:  "Yan乐团-草坪合集"
+title:  "草坪合集"
 crawlertitle: "Yan乐团-草坪合集"
 summary: "Yan乐团-草坪合集"
 date:   2017-07-02 14:24:47 +0800

@@ -5,7 +5,7 @@ title:  "声光影：黑白"
 crawlertitle: "声光影：黑白"
 summary: "声光影：黑白"
 date:   2017-05-25 14:24:47 +0800
-categories: posts
+categories: starred
 tags: '商演'
 author: Yan
 ---

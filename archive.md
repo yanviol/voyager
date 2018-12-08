@@ -4,7 +4,7 @@ layout: page
 permalink: /posts/
 title: "Archive"
 crawlertitle: "All articles"
-summary: "Posts about Yan & ViolinsYan"
+summary: "All posts"
 active: archive
 ---
 

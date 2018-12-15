@@ -15,7 +15,5 @@ author: Yan
 ![violinsyanRk3]({{ site.images }}/violinsyanRk3.jpg)
 ![violinsyanRk1]({{ site.images }}/violinsyanRk1.jpg)
 ![violinsyan10]({{ site.images }}/violinsyan10.jpg)
-
-同台的李克勤
 ![violinsyanRk4]({{ site.images }}/violinsyanRk4.jpg)
 

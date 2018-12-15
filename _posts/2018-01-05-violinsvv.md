@@ -9,5 +9,5 @@ categories: posts
 tags: '个人'
 author: Yan
 ---
-~~微微~~vv乐团 = violinsVictory = 小yan老师+小小学生们
+vv乐团 = violinsVictory = 小yan老师+小小学生们
 ![violinsVv1]({{ site.images }}/violinsVv1.jpg)
